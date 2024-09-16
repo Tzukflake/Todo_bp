@@ -1,4 +1,3 @@
-Flask-TodoManager API
 Flask-TodoManager is a Flask-based REST API that enables users to manage todos, organize them into categories, and handle user authentication and account management. The app utilizes Flask-SQLAlchemy for database interactions, offering a clean and modular structure with dedicated services for handling business logic.
 
 Features
